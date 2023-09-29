@@ -1,0 +1,34 @@
+div{
+    width: 160px;
+    height: 50px;
+}
+#el1{
+    margin-left: 20vw;
+}
+section>section{
+    display: flex;
+    margin-left: 30vw;
+}
+#el6{
+    margin-left: 72vw;
+}
+section>section>div{
+    margin-left: 5px;
+}
+#main{
+    margin-top: 30vh;
+}
+#btns{
+    margin-left: 45vw;
+}
+#btns>button:first-child{
+    background: greenyellow;
+    border: none;
+    padding: 6px;
+}
+#btns>button:last-child{
+    background: red;
+    color: white;
+    border: none;
+    padding: 6px;
+}

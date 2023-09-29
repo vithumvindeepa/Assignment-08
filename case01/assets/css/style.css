@@ -1,0 +1,30 @@
+section{
+    margin-top: 30vh;
+    margin-left: 15vw;
+}
+section>div>span{
+    position: relative;
+    bottom: 4vh;
+}
+section>div>img{
+    margin-right: 5px;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+#btns{
+    margin-left: 45vw;
+    margin-top: 5vh;
+}
+#btns>button:first-child{
+    background: greenyellow;
+    border: none;
+    padding: 6px;
+}
+#btns>button:last-child{
+    background: red;
+    color: white;
+    border: none;
+    padding: 6px;
+}
